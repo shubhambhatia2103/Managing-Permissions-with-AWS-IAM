@@ -39,7 +39,7 @@ This project demonstrates how to enhance security in a cloud environment using A
    - Created a user group (`nextwork-dev-group`) and attached the policy to control access.
    - Added a new IAM user to this group, ensuring they could only interact with the "development" environment.
 
-
+ ![Today's game plan](Documentation/image4.png)
 4. **Testing**:
    - Logged in as the new IAM user to verify permissions.
    - Successfully restricted access to "production" resources while allowing actions in the "development" environment.
