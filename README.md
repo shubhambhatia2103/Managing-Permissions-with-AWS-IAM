@@ -2,6 +2,7 @@
 
 ## Overview
 This project demonstrates how to enhance security in a cloud environment using AWS Identity and Access Management (IAM). I learned to manage and secure access to AWS resources by setting up policies, users, and user groups.
+![Today's game plan](Documentation/image1.png)
 
 ## Key Learnings
 
