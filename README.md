@@ -28,7 +28,8 @@ This project demonstrates how to enhance security in a cloud environment using A
 1. **Setting Up EC2 Instances**:
    - Created two EC2 instances tagged as "development" and "production."
    - Tags were used to test the effectiveness of IAM policies.
-   ![Today's game plan](Documentation/image2.png)
+   
+![Today's game plan](Documentation/image2.png)
 
 2. **IAM Policy Creation**:
    - Developed a JSON-based IAM policy allowing actions on resources tagged as "development" but restricting actions on "production" instances.
