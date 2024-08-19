@@ -46,5 +46,10 @@ This project demonstrates how to enhance security in a cloud environment using A
    - Logged in as the new IAM user to verify permissions.
    - Successfully restricted access to "production" resources while allowing actions in the "development" environment.
 
+
+
 ## Final Thoughts
 This project enhanced my understanding of AWS IAM and its crucial role in securing cloud environments. By simulating real-world scenarios, I gained insights into effectively managing user access and permissions in a scalable cloud infrastructure.
+
+Feel free to connect with me or explore the project further on my [LinkedIn](https://www.linkedin.com/in/shubhambhatia2103/).
+
