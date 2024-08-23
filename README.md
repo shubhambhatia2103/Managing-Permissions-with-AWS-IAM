@@ -54,3 +54,12 @@ This project enhanced my understanding of AWS IAM and its crucial role in securi
 
 Feel free to connect with me or explore the project further on my [LinkedIn](https://www.linkedin.com/in/shubhambhatia2103/).
 
+
+---
+
+### Additional Notes
+Since you plan to delete the resources from your AWS console to avoid costs, this GitHub repository will serve as the sole showcase for your work on this project.
+
+Feel free to modify the content as needed or add more details specific to your experience!
+
+
