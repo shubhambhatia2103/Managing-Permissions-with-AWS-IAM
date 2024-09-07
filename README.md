@@ -58,8 +58,8 @@ Feel free to connect with me or explore the project further on my [LinkedIn](htt
 ---
 
 ### Additional Notes
-Since you plan to delete the resources from your AWS console to avoid costs, this GitHub repository will serve as the sole showcase for your work on this project.
 
-Feel free to modify the content as needed or add more details specific to your experience!
+I deleted the resources from my AWS console to avoid costs, so this GitHub repository serves as the sole showcase for my work on this project. 
+I have documented all the steps and details to ensure a comprehensive understanding of my approach.
 
 
